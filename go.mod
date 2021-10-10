@@ -1,4 +1,4 @@
-module gitlab.com/gocor/corjwt
+module github.com/gocor/corjwt
 
 go 1.16
 
